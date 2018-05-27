@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "62992109475",
+    "firebase_url": "https://cricketscorer-cb42d.firebaseio.com",
+    "project_id": "cricketscorer-cb42d",
+    "storage_bucket": "cricketscorer-cb42d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:62992109475:android:22abfedf42920356",
+        "android_client_info": {
+          "package_name": "com.rawaat.cricket.cricketscorer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "62992109475-a62ei36c0k1aavnjgtnveevib9rf8iph.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rawaat.cricket.cricketscorer",
+            "certificate_hash": "6E8F8ABE2B29C47EE05290118651DC42EF48E0C3"
+          }
+        },
+        {
+          "client_id": "62992109475-u09p3ebngdoqklg4bcvhqb7mh0p02ti0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAVVACCyo_pcvYhLLJ4iEj0rv0EE_qJ7g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "62992109475-u09p3ebngdoqklg4bcvhqb7mh0p02ti0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
